@@ -23,7 +23,13 @@ module.exports = {
 
         }
 
-      }
+      },
+      fontFamily: {
+        quicksand: ["Quicksand-Regular"],
+        "quicksand-light": ["Quicksand-Light"],
+        "quicksand-semibold": ["Quicksand-SemiBold"],
+        "quicksand-bold": ["Quicksand-Bold"],
+      },
     },
   },
   plugins: [],
