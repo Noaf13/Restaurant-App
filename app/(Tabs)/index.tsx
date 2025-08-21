@@ -1,4 +1,3 @@
-import "./globals.css"
 import { SafeAreaView } from "react-native-safe-area-context";
 import { Pressable, Text, View,FlatList,Image, TouchableOpacity, ScrollView} from "react-native";
 import { images, offers } from "@/constants";
